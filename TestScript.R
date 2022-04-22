@@ -5,3 +5,6 @@ sd(y)
 
 #Import csv
 dat <- read.csv('TestData.csv',header=TRUE)
+
+#Import sensitive data
+dats <- read.csv('SensitiveData/SensitiveData.csv',header=TRUE)
