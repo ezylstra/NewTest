@@ -4,5 +4,3 @@
 .Ruserdata
 
 #Data
-SensitiveData/*
-!SensitiveData/.gitkeep
