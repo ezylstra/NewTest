@@ -7,6 +7,6 @@ sd(y)
 dat <- read.csv('TestData.csv',header=TRUE)
 
 #Import sensitive data
-dats <- read.csv('SensitiveData/SensitiveData.csv',header=TRUE)
+dats <- read.csv('Data1/SensitiveData.csv',header=TRUE)
 
-#Moved file location
+
